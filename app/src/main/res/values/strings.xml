@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RedmineMobile</string>
+    <string name="empty"></string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+<!--    <string name="first_fragment_label">First Fragment</string>-->
+<!--    <string name="second_fragment_label">Second Fragment</string>-->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="auth_sign_in">Sing In</string>
+    <string name="auth_enter_login">Enter your login</string>
+    <string name="auth_enter_pass">Enter your password</string>
+    <string name="auth_label_text">Authorization</string>
+</resources>
